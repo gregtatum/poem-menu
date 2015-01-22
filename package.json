@@ -1,0 +1,40 @@
+{
+  "name": "poem-menu",
+  "version": "1.0.0",
+  "description": "Create a hamburger menu using a poem manifest",
+  "main": "lib/menu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tatumcreative/poem-menu"
+  },
+  "browserify": {
+    "transform": [
+      "brfs"
+    ]
+  },
+  "keywords": [
+    "visualization",
+    "game",
+    "ui",
+    "poem",
+    "menu",
+    "manifest",
+    "hamburger"
+  ],
+  "author": "Greg Tatum (http://gregtatum.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tatumcreative/poem-menu/issues"
+  },
+  "homepage": "https://github.com/tatumcreative/poem-menu",
+  "dependencies": {
+    "brfs": "^1.2.0",
+    "class-list": "^0.1.1",
+    "events": "^1.0.2",
+    "insert-css": "^0.2.0",
+    "lodash": "^2.4.1"
+  }
+}
