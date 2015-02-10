@@ -4,6 +4,8 @@ Build a hamburger sidebar menu out of a [poem-manifest](https://www.npmjs.com/pa
 
 ![Example menu](http://gregtatum.com/tmp/poem-menu.jpg)
 
+Part of the [programming-poem](https://www.npmjs.com/browse/keyword/programming-poem) module series.
+
 ## Configuration Defaults
 
 	var createMenu = require('poem-menu');
