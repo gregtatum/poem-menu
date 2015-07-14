@@ -1,6 +1,6 @@
 {
   "name": "poem-menu",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Create a hamburger menu using a poem manifest",
   "main": "lib/menu.js",
   "scripts": {
